@@ -1,0 +1,23 @@
+.home-dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+.home-light {
+  background-color: #ffffff;
+  color: #000000;
+}
+.home-container {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+}
+.home-image {
+  width: 40%;
+}

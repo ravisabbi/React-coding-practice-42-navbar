@@ -1,0 +1,30 @@
+.dark-not-found {
+  background-color: #000000;
+  color: #ffffff;
+}
+.light-not-found {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+.not-found-image {
+  width: 40%;
+}
+
+.not-found-heading {
+  font-size: 30px;
+  font-weight: 300;
+  font-family: 'Roboto';
+}
+
+.not-found-description {
+  font-size: 10px;
+  font-family: 'Roboto';
+}
